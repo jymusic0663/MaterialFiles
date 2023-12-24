@@ -345,7 +345,7 @@
             <!--  PicoXR -->
             <!-- <meta-data android:name="pico.vr.position" android:value="sport_dashboard" /> -->
             <!-- <meta-data android:name="pico.vr.position" android:value="near_dialog" /> -->
-            <meta-data android:name="pvr.app.type" android:value="vr" />
+            <!-- <meta-data android:name="pvr.app.type" android:value="vr" /> -->
             <meta-data android:name="pico.vr.position" android:value="near" />
             <meta-data android:name="pico.vr.theme" android:value="NoCaptionBar" />
 
