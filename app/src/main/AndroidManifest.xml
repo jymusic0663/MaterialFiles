@@ -54,7 +54,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MaterialFiles"
         tools:ignore="GoogleAppIndexingWarning,UnusedAttribute">
-        <!-- PicoXR -->
+        <!-- PicoXR start -->
         <meta-data android:name="pvr.2dtovr.mode" android:value="6" />
         <meta-data android:name="com.pvr.hmd.trackingmode" android:value="6dof" />
         <meta-data android:name="pvr.vrshell.mode" android:value="1" />
